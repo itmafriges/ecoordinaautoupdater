@@ -9,8 +9,8 @@
 // @exclude      file://*
 // @grant        GM.setValue
 // @grant        GM.getValue
-// @updateURL    https://raw.githubusercontent.com/itmafriges/ecoordinaautoupdater/refs/heads/main/autoclickfile-latest
-// @downloadURL  https://raw.githubusercontent.com/itmafriges/ecoordinaautoupdater/refs/heads/main/autoclickfile-latest
+// @updateURL    https://raw.githubusercontent.com/itmafriges/ecoordinaautoupdater/main/autoclickfile-latest.user.js
+// @downloadURL  https://raw.githubusercontent.com/itmafriges/ecoordinaautoupdater/main/autoclickfile-latest.user.js
 // ==/UserScript==
 
 (function() {
