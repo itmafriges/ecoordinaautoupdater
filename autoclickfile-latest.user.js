@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Auto Click with Config Popup
 // @namespace    http://tampermonkey.net/
-// @version      0.5
+// @version      0.6
 // @description  Auto-clicks a button every X seconds with a configurable popup
 // @author       Eduardo Morell
 // @match        https://v5.e-coordina.com/*
